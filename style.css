@@ -2,7 +2,7 @@ body {
   margin: 2em;
 }
 aside {
-    background: #1f8dd6; /* same color as selected state on site menu */
+    background: #000000; /* same color as selected state on site menu */
     padding: 0.3em 1em;
     border-radius: 3px;
     color: #fff;
@@ -30,7 +30,7 @@ textarea {
   font-size: 125%;
 }
 button {
-  float: right;
+  float: left;
 }
 #name, #email {
   width: 50%;
